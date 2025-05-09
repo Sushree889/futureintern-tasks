@@ -18,4 +18,4 @@ This repository contains an image generated using the Craiyon (DALL·E Mini) too
   [Play Store Link](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed)
 
 ## Task Credit
-This task was completed as part of the **FutureIntern Online Internship Program (Task 1: AI Image Generation using pre-trained tools)**.
+This task was completed as part of the **FutureIntern Online Internship Program (Task 2: AI Image Generation using pre-trained tools)**.
