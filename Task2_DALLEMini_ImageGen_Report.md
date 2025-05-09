@@ -16,6 +16,10 @@ This repository contains an image generated using the Craiyon (DALL·E Mini) too
 - **Craiyon (DALL·E Mini)** – [https://www.craiyon.com](https://www.craiyon.com)  
 - **Snapseed App** – Used to remove watermark from the image  
   [Play Store Link](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed)
+  
+The following outputs were generated for Task 1:
+
+Output Image https://drive.google.com/file/d/1CAkPVG2CesCfizo0BR9c62tHWAFQwAQ6/view?usp=drivesdk
 
 ## Task Credit
 This task was completed as part of the **FutureIntern Online Internship Program (Task 2: AI Image Generation using pre-trained tools)**.
