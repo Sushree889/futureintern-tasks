@@ -33,15 +33,16 @@ This repository contains the implementation of **text generation using the GPT-2
 ## Output Example
 
 > "In the future, artificial intelligence will completely change the way humans interact with technology. From voice-based systems to full-fledged humanoid assistants, AI will be deeply integrated into our daily lives..."
+##Outputs
 > 
-> prompts and Outputs 
 
 https://drive.google.com/file/d/1BoDXksz4iKbsHyqC2n3KIKxVYqoDWt94/view?usp=drivesdk
+
 
 Screenshot of output: https://drive.google.com/file/d/1CBdi5Kz1cJ7tuZV9H4yTS-ef_5IzrZ9r/view?usp=drivesdk
 
 
-Code Files
+#Code Files
 
 i) .ipy : https://drive.google.com/file/d/17oStJNDkXYIpJth-nPE5DV-DIujAUa8w/view?usp=drivesdk
 
