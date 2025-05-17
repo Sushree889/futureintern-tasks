@@ -20,6 +20,6 @@ This repository contains an image generated using the Craiyon (DALL·E Mini) too
 The following outputs were generated for Task 2:
 
 Output Image ( DALL-E-mini) : https://drive.google.com/file/d/1CAkPVG2CesCfizo0BR9c62tHWAFQwAQ6/view?usp=drivesdk
-
+## Live task completion demo : https://drive.google.com/file/d/1HEBnd55JTu7xFTqkCMbVfPtXYnAi1S9D/view?usp=drivesdk
 ## Task Credit
 This task was completed as part of the **FutureIntern Online Internship Program (Task 2: AI Image Generation using pre-trained tools)**.
