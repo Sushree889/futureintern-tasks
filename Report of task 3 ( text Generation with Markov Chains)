@@ -4,15 +4,9 @@ Name: Sushree Jagruti Priyadarshini
 Internship Program: Future Intern
 Task Title: Text Generation Using Markov Chains
 
-
----
-
 Objective
 
 The aim of this task was to understand the concept of Markov Chains and apply it to generate text based on a given input dataset.
-
-
----
 
 My Experience
 
@@ -20,15 +14,9 @@ Initially, I tried to implement the task using Google Colab. However, due to tec
 
 Eventually, I discovered an online Markov Chain text generator tool at dcode.fr/markov-chain-text. This tool allowed me to input my custom text and generate new sentences based on the Markov Chain algorithm. The tool worked perfectly on my phone and helped me complete the task successfully.
 
-
----
-
 Input Text Used
 
 A paragraph describing my internship journey with Future Intern, detailing how I explored AI topics, used ChatGPT and Google Colab, struggled with technical tasks, and eventually learned more about real-world AI applications.
-
-
----
 
 Generated Output (Markov Chain Result – 9 Sentences)
 
@@ -42,33 +30,17 @@ FULL OF THE PROGRESS I M PROUD OF EXCITEMENT AND DATA STRUCTURES THOUGH I FACED 
 EXCITEMENT AND DATA STRUCTURES THOUGH I HAD NO CODING BACKGROUND I EXPLORED TOPICS LIKE GOOGLE COLAB AND READY FOR THE FUTURE
 CURIOSITY I STARTED MY INTERNSHIP WITH FUTURE I M PROUD OF EXCITEMENT AND MARKOV CHAINS BUT I ALREADY FEEL MORE SKILLED
 
-
-
-
----
-
 Conclusion
 
 This task helped me grasp the fundamental working of Markov Chains and their application in text generation. Despite initial technical difficulties, finding an alternative tool enabled me to complete the task effectively. This experience enhanced my confidence and problem-solving abilities and motivated me to explore AI tools independently.
 
-
----
-
 Live Demo Link: https://drive.google.com/file/d/1SdbkpIWLz2hgtf98pf9pEjBHSISBCAgy/view?usp=drivesdk
                 https://drive.google.com/file/d/1SalJ9wWGZvlKb1Zw-EfRdtGePyRnY1HK/view?usp=drivesdk
 
-Online Markov Chain Text Generator (dcode.fr)
-
-
----
 
 Code Files (.ipy and .py)
 https://drive.google.com/file/d/1SLdKRMSjF5Q9xXd552DzpVds3-urEYw5/view?usp=drivesdk
 https://drive.google.com/file/d/1SS97JODSPh8d0fw1LMiDNxgSLxJuHFyu/view?usp=drivesdk
-
-
-
----
 
 References & Resources Used
 
